@@ -9,7 +9,7 @@ footer {
       min-height: 100vh;
       display: flex;
       flex-direction: column;
-      font-family: roboto;
+      font-family: poppins;
       background-color: black;
     }        
 
@@ -52,6 +52,7 @@ footer {
       padding: 35px;
       width: 40%;
       font-size: 30px;
+      font-family: poppins;
     }
 
     .search-bar{
@@ -63,11 +64,13 @@ footer {
       padding: 25px 45px 25px 45px;
       margin-right: 50px;
       font-size: 20px;
+      font-family: poppins;
     }
 
     .random-button{
       padding: 25px 45px 25px 45px;
       font-size: 20px;
+      font-family: poppins;
     }
 
 
