@@ -71,6 +71,9 @@ footer {
     }
 
 
+    .search-button:hover, .random-button{
+      cursor: pointer;
+    }
 
     .search:hover{
          width: 45%;
