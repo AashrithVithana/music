@@ -1,3 +1,11 @@
+@keyframes  opacity{
+  from {
+    color: black;
+  }
+  to {
+    transform: color(aliceblue);
+  }
+}
 footer {
   background-color: #333;
   color: #fff;
@@ -93,6 +101,12 @@ footer {
 
     .rows{
       margin-top: 50px;
+    }
+
+    .boom{
+      animation-name: opacity;
+      animation-duration: 4s;
+
     }
 
     @media screen and (max-width: 700px) {
